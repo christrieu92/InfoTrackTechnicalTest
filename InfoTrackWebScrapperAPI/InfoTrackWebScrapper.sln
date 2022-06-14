@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoTrackWebScrapper", "InfoTrackWebScrapper\InfoTrackWebScrapper.csproj", "{D5E7CE60-2279-4BB1-8E27-8D68E2B32258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E7CE60-2279-4BB1-8E27-8D68E2B32258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E7CE60-2279-4BB1-8E27-8D68E2B32258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E7CE60-2279-4BB1-8E27-8D68E2B32258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E7CE60-2279-4BB1-8E27-8D68E2B32258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C07F8D75-A494-4437-8A9A-4A469548ACEF}
+	EndGlobalSection
+EndGlobal
